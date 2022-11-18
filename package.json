@@ -1,0 +1,12 @@
+{
+  "name": "@febzey/gotime",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "type": "commonjs",
+  "scripts": {
+    "build": "npx tsc",
+    "test": "yarn build && node examples/example.js"
+  }
+  
+}
