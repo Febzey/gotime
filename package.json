@@ -1,12 +1,17 @@
 {
   "name": "@febzey/gotime",
   "version": "1.0.0",
-  "main": "src/index.js",
+  "description": "a package for date formatting.",
+  "main": "build/index.js",
   "license": "MIT",
   "type": "commonjs",
   "scripts": {
     "build": "npx tsc",
     "test": "yarn build && node examples/example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Febzey/gotime.git"
   }
   
 }
