@@ -4,9 +4,14 @@
 
 <p align="center"> yet another date and time parser. </p>
 
-<hr/>
+---
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Febzey/gotime/graphs/commit-activity) [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com) [![Npm package version](https://badgen.net/npm/v/@febzey/gotime)](https://npmjs.com/package/@febzey/gotime) [![GitHub issues](https://img.shields.io/github/issues/Febzey/gotime.svg)](https://GitHub.com/Febzey/gotime/issues/)
 
-<p> gotime is a javascript nodejs library useful for parsing, formalizing and manipulating dates and times mostly via unix timestamps. This package is a work in progress. </p>
+<p align="center">
+
+</p>
+
+<p> gotime is a minimal javascript nodejs library useful for parsing, formalizing and manipulating dates and times mostly via unix timestamps. This package is a work in progress. </p>
 
 <h3> List of features </h3>
 
